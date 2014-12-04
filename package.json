@@ -1,6 +1,6 @@
 {
   "name": "broccoli-browserify",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Browserify plugin for Broccoli",
   "main": "lib/index.js",
   "scripts": {
@@ -26,9 +26,9 @@
   "homepage": "https://github.com/gingerhendrix/broccoli-browserify",
   "dependencies": {
     "broccoli-writer": "^0.1.1",
-    "rsvp": "^3.0.6",
-    "browserify": "^3.31.2",
-    "mkdirp": "^0.3.5"
+    "browserify": "^7.0.0",
+    "mkdirp": "^0.3.5",
+    "rsvp": "^3.0.6"
   },
   "devDependencies": {
     "jshint": "^2.4.4"
